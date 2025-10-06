@@ -22,7 +22,6 @@ function App() {
       <div className="bg-white px-4 py-3 shadow-sm flex items-center justify-center">
         <img src="/logo.png" alt="" className="w-20 h-auto" />
       </div>
-
       {/* Streak Section */}
       <div className="bg-white px-4 py-3 border-b">
         <div className="flex items-center justify-between gap-2">
